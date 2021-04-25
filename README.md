@@ -17,3 +17,4 @@ Some recipes around Apple CreateML
 6.  Test it out by finding internet pictures of cats and dogs
 
 [Create ML Walkthrough on the O'Reilly platform](https://learning.oreilly.com/videos/automl-with-apple/60424VIDEOPAIML/60424VIDEOPAIML-c1_s0)
+7.  Download model and use it in iOS application or convert it to another format.  Here is an example of the an `mlmodel` file:  https://github.com/noahgift/Apple-CreateML-AutoML-Recipes/blob/main/cats-dogs.mlmodel?raw=true
