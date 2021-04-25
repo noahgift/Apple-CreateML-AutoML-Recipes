@@ -46,6 +46,10 @@ Next steps:
 ### Download and Convert a pre-trained model
 
 * Follow this notebook:  https://github.com/noahgift/Apple-CreateML-AutoML-Recipes/blob/main/CreateML_Conversion.ipynb
+* Download the model after converting
+
+![download-colab](https://user-images.githubusercontent.com/58792/116013113-616ff180-a5fc-11eb-86f4-51d9a023f849.png)
+
 * Open model in XCode and predict
 
 ![stingray-predict](https://user-images.githubusercontent.com/58792/116012566-3637d300-a5f9-11eb-86f6-ef8914829a3a.png)
