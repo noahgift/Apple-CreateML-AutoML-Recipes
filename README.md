@@ -11,6 +11,10 @@ Some recipes around Apple CreateML
 
 ![CreateML](https://user-images.githubusercontent.com/58792/116000086-ca377980-a5bc-11eb-8842-11f2c862ca8e.png)
 
+3.  Use Image Classifier template
+
+![image-classification](https://user-images.githubusercontent.com/58792/116000191-2ac6b680-a5bd-11eb-800b-e264727d5bc8.png)
+
 
 4.  Drop cats-dogs-small onto project and test-cats-dogs onto test
 
