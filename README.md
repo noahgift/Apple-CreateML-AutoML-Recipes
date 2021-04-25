@@ -21,4 +21,7 @@ Some recipes around Apple CreateML
 
 ### Video Walkthrough
 
+
 [Create ML Walkthrough on the O'Reilly platform](https://learning.oreilly.com/videos/automl-with-apple/60424VIDEOPAIML/60424VIDEOPAIML-c1_s0)
+
+![Create ML](https://user-images.githubusercontent.com/58792/116000644-1f748a80-a5bf-11eb-937f-93ff3078aa17.jpg)
