@@ -11,3 +11,5 @@ Some recipes around Apple CreateML
 3.  Drop cats-dogs-small onto project and test-cats-dogs onto test
 4.  Train the model
 5.  Test it out by finding internet pictures of cats and dogs
+
+[Create ML Walkthrough on the O'Reilly platform](https://learning.oreilly.com/videos/automl-with-apple/60424VIDEOPAIML/60424VIDEOPAIML-c1_s0)
