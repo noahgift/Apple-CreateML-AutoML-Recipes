@@ -9,3 +9,5 @@ Some recipes around Apple CreateML
 1.  Download [XCode](https://developer.apple.com/xcode/)
 2.  Open up XCode and Right click on icon to launch CreateML
 3.  Drop cats-dogs-small onto project and test-cats-dogs onto test
+4.  Train the model
+5.  Test it out by finding internet pictures of cats and dogs
