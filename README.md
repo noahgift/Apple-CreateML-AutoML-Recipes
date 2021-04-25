@@ -31,6 +31,7 @@ Some recipes around Apple CreateML
 
 7.  Download model and use it in iOS application or convert it to another format.  
 
+![create-ml-model](https://user-images.githubusercontent.com/58792/116000976-5dbe7980-a5c0-11eb-80f0-e29abbd73898.png)
 
 Here is an example of the an `mlmodel` file:  https://github.com/noahgift/Apple-CreateML-AutoML-Recipes/blob/main/cats-dogs.mlmodel?raw=true
 
