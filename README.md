@@ -35,6 +35,11 @@ Some recipes around Apple CreateML
 
 Here is an example of the an `mlmodel` file:  https://github.com/noahgift/Apple-CreateML-AutoML-Recipes/blob/main/cats-dogs.mlmodel?raw=true
 
+Next steps:
+
+* You could train a more complex model by downloading a larger Kaggle dataset:  https://www.microsoft.com/en-us/download/details.aspx?id=54765
+* You could try other types of AutoML
+
 
 ### Video Walkthrough
 
