@@ -40,6 +40,10 @@ Next steps:
 * You could train a more complex model by downloading a larger Kaggle dataset:  https://www.microsoft.com/en-us/download/details.aspx?id=54765
 * You could try other types of AutoML
 
+### Download and Convert a pre-trained model
+
+* Follow this notebook:  https://github.com/noahgift/Apple-CreateML-AutoML-Recipes/blob/main/CreateML_Conversion.ipynb
+
 
 ### Video Walkthrough
 
