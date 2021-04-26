@@ -1,6 +1,6 @@
 # Apple-CreateML-AutoML-Recipes
 
-This is part of the book Practical MLOps
+This is part of the book [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 Some recipes around Apple CreateML
 
