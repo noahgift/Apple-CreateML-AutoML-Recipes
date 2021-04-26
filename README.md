@@ -1,6 +1,8 @@
 # Apple-CreateML-AutoML-Recipes
 
 This is part of the book [Practical MLOps](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
+![1617813629352](https://user-images.githubusercontent.com/58792/114588914-2f05e200-9c55-11eb-829b-e24064b8d571.jpg)
+
 
 Some recipes around Apple CreateML
 
